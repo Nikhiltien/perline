@@ -1,2 +1,2 @@
 # perline
-Advanced chess analytics and statistics GUI.
+Backend for an advanced chess analytics and statistics application.

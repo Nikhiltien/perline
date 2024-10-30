@@ -1,2 +1,2 @@
 # perline
-Backend for an advanced chess analytics and statistics application.
+Advanced analysis, statistics, and database for chess research.

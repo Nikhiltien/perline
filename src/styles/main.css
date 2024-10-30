@@ -1,0 +1,28 @@
+#app {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+#board {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+#controls {
+    margin-top: 20px;
+    text-align: center;
+}
+
+button {
+    padding: 8px 16px;
+    margin: 0 8px;
+    cursor: pointer;
+}
+
+#status {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 1.2em;
+}
